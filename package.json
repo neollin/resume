@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "1.1.0",
-  "description": "The resume of Kazuya Gosho",
+  "description": "The resume of Neo Lin",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot",
