@@ -7,8 +7,8 @@ https://reverent-pike-ebbd93.netlify.com/<br />
 
 **Reference**
 
-Netlify<br />
+1. Netlify<br />
 https://www.netlify.com/<br />
 
-Thanks for Kazuay Gosho provided this nice repo<br />
+2. Thanks for Kazuay Gosho provided this nice repo<br />
 https://github.com/acro5piano/resume<br />
